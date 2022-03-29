@@ -6,7 +6,6 @@ Tarea en clase 28/3:
 -mostrar todos los objetos en cards de bootstrap cuando cargue la pagina.
 -poder filtrar por tipo y que se muestren solo las cards filtradas.
 -poder buscar por id y que se muestre la card.
--poder crear un objeto y mostrarlo por consola. SI LLEGAN
 
 
 
